@@ -1,5 +1,5 @@
 {
-  "name": "dukt/videos",
+  "name": "craftquest/videos",
   "description": "Connect to YouTube & Vimeo and publish social videos on your website.",
   "version": "3.0.0",
   "type": "craft-plugin",
